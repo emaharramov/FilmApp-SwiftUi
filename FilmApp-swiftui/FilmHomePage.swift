@@ -63,6 +63,6 @@ struct FilmHomePage: View {
     }
 }
 
-//#Preview {
-//    FilmHomePage(category: FilmCategories(categoryId: 1, categoryName: "Aksiyon"))
-//}
+#Preview {
+    FilmHomePage(category: FilmCategories(categoryId: 1, categoryName: "Aksiyon"))
+}
